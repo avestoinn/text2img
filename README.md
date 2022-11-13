@@ -16,7 +16,7 @@ If you use `text2img` from your command line, install the binary from [releases]
 Or use `go get`:
 
 ```
-go get github.com/Iwark/text2img/cmd/text2img
+go get github.com/avestoinn/text2img/cmd/text2img
 ```
 
 ### Go code
@@ -24,7 +24,7 @@ go get github.com/Iwark/text2img/cmd/text2img
 If you use `text2img` from your go code, install the package by `go get`.
 
 ```
-$ go get github.com/Iwark/text2img
+$ go get github.com/avestoinn/text2img
 ```
 
 ## Usage
